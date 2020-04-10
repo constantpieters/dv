@@ -1,6 +1,6 @@
 # Discriminant validity
 
-Code for bivariate and multivariate discriminant validity analysis.
+Bivariate and multivariate discriminant validity analysis.
 
 ## Shiny app
 
